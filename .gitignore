@@ -1,0 +1,7 @@
+code/.venv/
+code/tmp/
+code/logs/
+data/
+__pycache__
+.lk_cache
+code/star_names/tess_spoc

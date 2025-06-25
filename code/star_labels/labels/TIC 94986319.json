@@ -1,0 +1,17 @@
+{
+  "version": "5.6.1",
+  "flags": {
+    "missing_exoplanet": false,
+    "bad_transit_position": false,
+    "no_transit": false,
+    "noisy": false,
+    "clear_transit": true,
+    "minor_activity": false,
+    "major_activity": false
+  },
+  "shapes": [],
+  "imagePath": "..\\data\\TIC 94986319.png",
+  "imageData": null,
+  "imageHeight": 727,
+  "imageWidth": 990
+}

@@ -1,0 +1,7 @@
+missing_exoplanet
+bad_transit_position
+no_transit
+noisy
+clear_transit
+minor_activity
+major_activity

@@ -1,0 +1,21 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Sat Apr 26 08:47:32 2025
+#
+# User preference: *
+#
+# COLUMN toi:            TESS Object of Interest
+# COLUMN tid:            TESS Input Catalog ID
+# COLUMN tfopwg_disp:    TFOPWG Dispostion (CP | FP | KP | PC)
+# COLUMN pl_tranmid:     Planet Transit Midpoint Value [BJD]
+# COLUMN pl_tranmiderr1: Planet Transit Midpoint Upper Unc [BJD]
+# COLUMN pl_tranmiderr2: Planit Transit Midpoint Lower Unc [BJD]
+# COLUMN pl_tranmidlim:  Planet Transit Midpoint Limit Flag
+# COLUMN pl_orbper:      Planet Orbital Period Value [days]
+# COLUMN pl_orbpererr1:  Planet Orbital Period Upper Unc [days]
+# COLUMN pl_orbpererr2:  Planet Orbital Period Lower Unc [days]
+# COLUMN pl_orbperlim:   Planet Orbital Period Limit Flag
+# COLUMN pl_trandurh:    Planet Transit Duration Value [hours]
+# COLUMN pl_trandurherr1: Planet Transit Duration Upper Unc [hours]
+# COLUMN pl_trandurherr2: Planet Transit Duration Lower Unc [hours]
+# COLUMN pl_trandurhlim: Planet Transit Duration Limit Flag
+#
